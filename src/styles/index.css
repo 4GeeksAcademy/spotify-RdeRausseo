@@ -10,3 +10,29 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+body{
+    background-color: black
+} 
+.song{
+    color: white;
+
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+}
+
+ul{
+    padding: 0;
+}
+
+span{
+    margin: 0 20px 0 10px;
+}
+
+li:hover{
+    opacity: 0.1;
+}
